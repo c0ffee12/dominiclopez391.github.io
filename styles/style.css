@@ -1,0 +1,36 @@
+html {
+	background-color: #AAD6E7;
+	font-size: 10px;
+	font-family: 'Roboto Slab', serif;
+
+}
+body {
+	width: 1000px;
+	margin: 30px auto;
+	background-color: #FFFFFF;
+	padding: 0px 20px 40px 20px;
+	border: 5px solid black;
+	
+}
+img{
+	display: block;
+	margin:0 auto;
+}
+h1 {
+	margin: 20 auto;
+	padding: 0 0 0 0;
+	color: #114154;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 3px 3px 1px black;
+}
+h2 {
+	font-size: 40px;
+}
+p, ol {
+	font-size:30px;
+}
+button {
+	float: right;
+	overflow: hidden;
+}
