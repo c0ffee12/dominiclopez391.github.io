@@ -26,8 +26,10 @@ h1 {
 }
 h2 {
 	font-size: 40px;
+	margin: 20px 0;
 }
 p, ol {
+	margin: 20px 20px;
 	font-size:30px;
 }
 button {
